@@ -1,0 +1,16 @@
+spring:
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: false
+  freemarker:
+    cache: false
+
+
+  messages:
+    cache-duration: 1000
+
+server:
+  port: 2189
+
