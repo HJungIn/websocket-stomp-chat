@@ -1,2 +1,1 @@
-# websocket-chat-server
-springboot websocket-chat-server
+# websocket + stomp + sockjs 로 채팅방 만들고 채팅하기
